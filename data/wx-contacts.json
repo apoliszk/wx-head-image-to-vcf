@@ -1,0 +1,9 @@
+{
+    "BaseResponse": {
+        "Ret": 0,
+        "ErrMsg": ""
+    },
+    "MemberCount": 0,
+    "MemberList": [],
+    "Seq": 0
+}
