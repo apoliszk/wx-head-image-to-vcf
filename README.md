@@ -1,5 +1,5 @@
 # 把微信好友头像同步到手机通讯录
-参阅https://my.oschina.net/u/2000333/blog/899248
+参阅http://blog.csdn.net/github_39212680/article/details/73409960
 
 步骤：
 1. 登录微信网页版，将联系人列表请求响应存入文件`data/wx-contacts.json`
